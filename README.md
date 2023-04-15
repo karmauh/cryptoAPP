@@ -1,4 +1,5 @@
-### :man_technologist: CRYPTO APP
+### :man_technologist: CRYPTO APP 
+still in progress...
 
 ---
   - This script provides a command-line interface for accessing the Coinbase API to retrieve cryptocurrency prices. 
